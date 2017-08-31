@@ -1,7 +1,7 @@
 # TextBlade-for-Karabiner-Elements
 This is a layout based on the TextBlade device from WayTools for the Karabiner-Elements. 
 
-After a recent migration to Sierra I found myself without access to a layout that was based off the TextBlade. It was in the previous version of Karabiner but unfortunately not implemented yet in the new version for Karabiner-Elements. I am greatly in debt to Jack Couch and his work on Crackle Dvorak and Crackle QWERTY. Check it out if you would other productive keyboard layouts.  
+After a recent migration to Sierra I found myself without access to a layout that was based off the TextBlade. It was in the previous version of Karabiner but unfortunately not implemented yet in the new version for Karabiner-Elements. I am greatly in debt to Jack Couch and his work on Crackle Dvorak and Crackle QWERTY. Check it out if you would like other productive keyboard layouts.  
 
 https://medium.com/@jack_21924/crackle-keyboard-layout-for-special-characters-e4dd04838231
 
